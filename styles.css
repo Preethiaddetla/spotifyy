@@ -1,0 +1,105 @@
+.hh3{
+     color: aliceblue;
+}  
+.div1{
+    background-color: rgb(64, 63, 63);
+    height: 130px;
+    width: 350px;
+}
+.nav1{
+    background-color: rgb(64, 63, 63);
+    height: 380px;
+    width: 350px;
+
+}
+.nav2{
+    background-color: rgb(65, 64, 64);
+    height: 80px;
+}
+.hhh3{
+    color: aliceblue;
+    
+}
+.nav3{
+    border-radius: 20px;
+    background-color: rgb(94, 89, 89);
+    height: 30px;
+    width: 130px;
+    text-align: center;
+    
+}
+.hh4{
+    color: aliceblue;
+    
+
+}
+.nav4{
+    border-radius: 20px;
+    background-color: rgb(94, 89, 89);
+    height: 40px;
+    width: 100px;
+    text-align: center;
+}
+.navh3{
+    background-color: rgb(64, 63, 63);
+    height: 50px;
+    width: 350px;
+
+}
+.aa{
+    height: 50px;
+    width: 1080px;
+    background-color: #2d2b2bf2;
+    display: inline-block;
+    vertical-align: top;
+   
+}
+.bb{
+    height: 650px;
+    width: 370px;
+    background-color: #2d2b2bf2;
+    display: inline-block;
+    vertical-align: top;
+
+}
+.pp{
+    float: right;
+    color: aliceblue;
+}
+
+.main{
+    height: 650px;
+    width: 1080px;
+    background-color: rgb(64, 63, 63);
+    vertical-align: top;
+    display: inline-block;
+    
+}
+.zz{
+    margin-left: 20px;
+    float: left;
+}
+.q{
+    float: left;
+    margin-left: 20px;
+   
+}
+.y{
+    float: right;
+    display: inline-block;
+}
+.x{
+    color: aliceblue;
+    margin-left: 20px;
+  
+    
+    
+}
+.img{
+    float: left;
+}
+.img1{
+    float: left;
+   padding-top: 20px;
+   margin-left: 20px;
+}
